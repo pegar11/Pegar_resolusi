@@ -1,5 +1,4 @@
 Pegar resolusi 2023
-- Fokus Semester 6
 - Konsisten untuk belajar programming min. 2 kali seminggu
 - Konsisten untuk mengasah skill bahasa inggris min. 3 kali seminggu
-- Konsisten ke TDMRC, belajar linux untuk TA geohazard
+- Membuat forum diskusi
